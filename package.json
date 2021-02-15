@@ -1,0 +1,15 @@
+{
+  "name": "merge-me-app",
+  "version": "0.0.0",
+  "description": "A running instance of the merge-me GitHub app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'no tests'",
+    "start": "probot run @nikku/merge-me"
+  },
+  "author": "Nico Rehwaldt <https://github.com/nikku>",
+  "license": "MIT",
+  "dependencies": {
+    "@nikku/merge-me": "^0.14.0"
+  }
+}
