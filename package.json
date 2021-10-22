@@ -10,6 +10,6 @@
   "author": "Nico Rehwaldt <https://github.com/nikku>",
   "license": "MIT",
   "dependencies": {
-    "@nikku/merge-me": "^0.14.0"
+    "@nikku/merge-me": "^0.14.2"
   }
 }
